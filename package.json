@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "nodejs-base",
+    "description": "⛵ Generate a ready-to-use docker environment for your NodeJS application",
+    "version": "0.0.1",
+    "license": "UNLICENSED",
+    "author": "André Silva <andreluis_x@msn.com>",
+    "scripts": {
+        "start": "node app.js"
+    }
+}
